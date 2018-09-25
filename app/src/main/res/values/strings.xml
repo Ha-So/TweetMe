@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TweetMe</string>
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">EYXXnDxWb1rqT1HLltyzoC5o8</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">fPkffMYGiK145nIadxf1EBE86y9hxjggRSjJUxNld4UE3kTxw4</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">CONSUMER_KEY</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">CONSUMER_SECRET</string>
 </resources>
